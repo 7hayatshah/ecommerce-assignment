@@ -121,6 +121,8 @@ erDiagram
         integer quantity
     }
 
+```
+
 ## 4. Administrative REST API Endpoints
 
 All admin endpoints require `Authorization: Bearer <JWT_TOKEN>` header verification.
